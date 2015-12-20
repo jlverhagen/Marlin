@@ -8,7 +8,7 @@
 #if true
 #define SHORT_BUILD_VERSION "1.1.0-RC3"
 #define DETAILED_BUILD_VERSION "1.1.0-RC3 From Archive"
-#define STRING_DISTRIBUTION_DATE "2015-12-01 12:00"
+#define STRING_DISTRIBUTION_DATE "2015-12-19 23:00"
 // It might also be appropriate to define a location where additional information can be found
-#define SOURCE_CODE_URL  "http:// ..."
+#define SOURCE_CODE_URL  "https://github.com/jlverhagen/Marlin/tree/Cobblebot-Little-Monster"
 #endif
